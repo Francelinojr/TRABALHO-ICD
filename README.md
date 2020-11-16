@@ -1,4 +1,4 @@
-# TRABALHO-ICD
+# Análise de dados das gravidezes entre 1960 e 1967 entre mulheres no Plano de Saúde da Fundação Kaiser na área da Baía Leste de São Francisco
 Repositorio criado para adicionar os notebooks com os passos do trabalho.
 
 ## Participantes:
